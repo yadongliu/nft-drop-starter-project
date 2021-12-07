@@ -1,0 +1,23 @@
+{
+    "name": "Integritas NFT",
+    "symbol": "",
+    "image": "1.png",
+    "collection": {
+      "name": "Virtues Integritas NFT",
+      "family": "Virtues"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J7P9m18gqZQHjnK4k9W2LUCHmmHy1upTmNoW8iJ4LBMv",
+          "share": 100
+        }
+      ]
+    }
+  }

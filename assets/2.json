@@ -1,0 +1,23 @@
+{
+    "name": "Industria NFT",
+    "symbol": "",
+    "image": "2.png",
+    "collection": {
+      "name": "Virtues Industria NFT",
+      "family": "Virtues"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "J7P9m18gqZQHjnK4k9W2LUCHmmHy1upTmNoW8iJ4LBMv",
+          "share": 100
+        }
+      ]
+    }
+  }
