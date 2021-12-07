@@ -80,7 +80,7 @@ const App = () => {
       <div className="container">
         <div className="header-container">
           <p className="header">Virtues NFT</p>
-          <p className="sub-text">NFT drop machine with fair mint</p>
+          <p className="sub-text">Fair Mint Machine</p>
           {/* Render your connect to wallet button right here */}
           { !walletAddress && renderNotConnectedContainer()}
           {/* Check for walletAddress and then pass in walletAddress */}
